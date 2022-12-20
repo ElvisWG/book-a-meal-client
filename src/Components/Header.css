@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    text-align:center;
+    justify-content: center;
+    color:red;
+    font-family: "Sofia", sans-serif;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.img {
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+}

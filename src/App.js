@@ -14,11 +14,12 @@
 
 // export default App;
 import Register from "./Authentication/Register";
+import Navbar from "./Components/Navigation/Navbar"
 
 function App() {
   return (
     <main classname="App">
-      <Register />
+      <Navbar />
     </main>
   );
 }
